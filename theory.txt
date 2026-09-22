@@ -1,0 +1,50 @@
+A quadratic equation has the general form:
+
+ax² + bx + c = 0
+
+where:
+
+• a, b and c are real numbers;
+• a must not be equal to zero.
+
+Step 1. Calculate the discriminant
+
+D = b² - 4ac
+
+The discriminant determines the number of real roots:
+
+• If D > 0, the equation has two different real roots.
+
+• If D = 0, the equation has one real root.
+
+• If D < 0, the equation has no real roots.
+
+Step 2. Calculate the roots
+
+If D ≥ 0, use the quadratic formula:
+
+x₁ = (-b + √D) / (2a)
+
+x₂ = (-b - √D) / (2a)
+
+When D = 0, both formulas give the same root:
+
+x = -b / (2a)
+
+Example:
+
+x² - 5x + 6 = 0
+
+Here:
+
+a = 1
+b = -5
+c = 6
+
+D = (-5)² - 4 × 1 × 6
+D = 25 - 24 = 1
+
+Since D > 0, there are two roots:
+
+x₁ = 3
+x₂ = 2
